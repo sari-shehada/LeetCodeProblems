@@ -12,7 +12,7 @@ public class TwoSum
     {
         for (var i = 0; i < nums.Length; i++)
         {
-            for (var j = 0; j < nums.Length; j++)
+            for (var j = i+1; j < nums.Length; j++)
             {
                 if (i == j)
                 {

@@ -8,7 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5321fe3d-a617-4caf-8918-d0561d92d435" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/LeetCodeProblems/LeetCodeProblems.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeProblems/LeetCodeProblems.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LeetCodeProblems/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeetCodeProblems/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodeProblems/Easy/TwoSum.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeProblems/Easy/TwoSum.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730550614593</updated>
-      <workItem from="1730550615965" duration="1408000" />
+      <workItem from="1730550615965" duration="2472000" />
     </task>
     <servers />
   </component>
@@ -92,5 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
