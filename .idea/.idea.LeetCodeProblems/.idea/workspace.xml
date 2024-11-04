@@ -9,20 +9,27 @@
   <component name="ChangeListManager">
     <list default="true" id="5321fe3d-a617-4caf-8918-d0561d92d435" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LeetCodeProblems/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeetCodeProblems/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCodeProblems/Easy/TwoSum.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeProblems/Easy/TwoSum.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodeProblems/LeetCodeProblems.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeProblems/LeetCodeProblems.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodeProblems/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeProblems/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DpaMonitoringSettings">
+    <option name="autoShow" value="false" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/a0741529c8554d199992ef9e50684668d82800/6f/4757206d/Number.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2oIIMLwLpoZnnNxVzJErzGBq3pd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -33,6 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Project.LeetCodeProblems.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
@@ -71,7 +79,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730550614593</updated>
-      <workItem from="1730550615965" duration="2472000" />
+      <workItem from="1730550615965" duration="2774000" />
+      <workItem from="1730565999275" duration="3076000" />
+      <workItem from="1730727350631" duration="1342000" />
     </task>
     <servers />
   </component>
@@ -95,5 +105,24 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Initial Commit" />
     <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LeetCodeProblems/Medium/AddTwoNumbers.cs</url>
+          <line>14</line>
+          <properties documentPath="$PROJECT_DIR$/LeetCodeProblems/Medium/AddTwoNumbers.cs" containingFunctionPresentation="Method 'Solve'">
+            <startOffsets>
+              <option value="281" />
+            </startOffsets>
+            <endOffsets>
+              <option value="282" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
